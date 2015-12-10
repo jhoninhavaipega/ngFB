@@ -1,0 +1,32 @@
+{
+  "name": "ngFB",
+  "version": "0.0.1",
+  "description": "Library to integrate easily with the Facebook Api using AngularJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhoninhavaipega/ngFB.git"
+  },
+  "keywords": [
+    "ngFB",
+    "FBApi",
+    "FB",
+    "AngularJS",
+    "API"
+  ],
+  "author": "jhoninhvaipega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoninhavaipega/ngFB/issues"
+  },
+  "homepage": "https://github.com/jhoninhavaipega/ngFB",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-iife": "^0.2.4",
+    "gulp-watch": "^4.3.5"
+  }
+}
